@@ -1,3 +1,3 @@
 # VLSM
 
-<img src="images/tabella.PNG" width=500>
+<img src="images/tabella.png" width=500>
